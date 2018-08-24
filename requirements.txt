@@ -1,0 +1,9 @@
+Requirements for the development of the program.
+
+libraries used:
+
+numpy - for the creation of the arrangements.
+pandas - for the manipulation and vision of the data
+tabulate - for printing data in tables
+matplotlib - for the presentation of data in graphics
+
