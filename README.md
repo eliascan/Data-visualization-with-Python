@@ -13,3 +13,5 @@ Additionally, the program should accept two optional arguments:
 
 - "landcover": If present, only do the calculation for that given type of landcover. An appropriate error message should be displayed if the given value is not a valid landcover type.
 - "stddev": If present, also calculate the standard deviation (in addition to the average).
+
+Python 3.6
